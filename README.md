@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94bblueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Cost-Monitoring-Usage-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Cost-Monitoring-Usage-Analytics?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Cost-Monitoring-Usage-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Cost-Monitoring-Usage-Analytics?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Cost-Monitoring-Usage-Analytics/blob/main/README.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -77,7 +77,7 @@ Open-source tools offer complete data privacy, zero vendor lock-in, and self-hos
 
 ### ⭐ Top Open-Source Projects (Ranked by Stars)
 
-Each project includes a live GitHub star count badge linked directly to its stargazers page, sorted in descending order:
+Each project includes a live GitHub Stars_Count badge linked directly to its stargazers page, sorted in descending order:
 
 1. **[Ollama](https://github.com/ollama/ollama)** [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) 🦙  
    Get up and running with Llama 3, Mistral, and other local models. Eliminates per-token cloud API inference costs with Prometheus-compatible token throughput and performance metrics.
@@ -179,7 +179,7 @@ Each project includes a live GitHub star count badge linked directly to its star
 
 ### ⚡ Specialized Coding-Agent & CLI Monitors
 
-| Project | Stars | Focus & Description |
+| Project | GitHub_Stars | Focus & Description |
 | :--- | :--- | :--- |
 | **[ccusage](https://github.com/ccusage/ccusage)** | [![Stars](https://img.shields.io/github/stars/ccusage/ccusage?style=social&color=white)](https://github.com/ccusage/ccusage/stargazers) | CLI log parser for Claude Code sessions; breaks down token counts and caching metrics. |
 | **[Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)** | [![Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=social&color=white)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor/stargazers) | Real-time Rich terminal UI showing rolling 5-hour quota reset windows and burn velocity. |
@@ -190,7 +190,7 @@ Each project includes a live GitHub star count badge linked directly to its star
 
 ### 🧮 Token Counters & Cost Calculation Libraries
 
-| Library | Stars | Purpose |
+| Library | GitHub_Stars | Purpose |
 | :--- | :--- | :--- |
 | **[tiktoken (`openai/tiktoken`)](https://github.com/openai/tiktoken)** | [![Stars](https://img.shields.io/github/stars/openai/tiktoken?style=social&color=white)](https://github.com/openai/tiktoken/stargazers) | Fast BPE token counter in Rust/Python for OpenAI models to budget prompt sizes pre-call. |
 | **[tokenizers (`huggingface/tokenizers`)](https://github.com/huggingface/tokenizers)** | [![Stars](https://img.shields.io/github/stars/huggingface/tokenizers?style=social&color=white)](https://github.com/huggingface/tokenizers/stargazers) | High-speed tokenization library supporting modern open-weight architectures (Llama, Mistral). |
@@ -249,7 +249,7 @@ We welcome additions, corrections, and updates from the community!
 2. **Add or edit entries** in `README.md` keeping alphabetical or star-ranked consistency.
 3. **Ensure criteria are met**:
    - For SaaS: Must include pricing, free tier/trial limits, and company size/funding.
-   - For Open-Source: Include GitHub star badge (`style=social&color=white`) linking to `/stargazers`.
+   - For Open-Source: Include GitHub Stars_Badge (`style=social&color=white`) linking to `/stargazers`.
 4. **Submit a Pull Request** with a brief summary of the project.
 
 ---
